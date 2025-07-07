@@ -82,8 +82,10 @@ shortcut:
 
 ##### Always close your tags 🌟🌟🌟
 
+```
+<br>
+```
+
 ```html
-<br />
-corret way to write this is
-<br />
+corret way to write this is <br />
 ```
