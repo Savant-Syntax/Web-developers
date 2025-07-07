@@ -49,17 +49,17 @@ What Are HTML Tags?
 
 - In head we have title and favicon. - The title is the text shown in the browser tab and also used as the name when someone bookmarks your site.
 
-  ```
-    <head>
+  ```html
+  <head>
     <title>My Awesome Website</title>
-    </head>
+  </head>
   ```
 
 - A favicon is the small icon displayed next to the title in the browser tab.
 
-  ```
+  ```html
   <head>
-  <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" href="favicon.png" type="image/png" />
   </head>
   ```
 
@@ -82,8 +82,8 @@ shortcut:
 
 ##### Always close your tags 🌟🌟🌟
 
-```
-<br>
+```html
+<br />
 corret way to write this is
 <br />
 ```
