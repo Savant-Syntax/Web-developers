@@ -48,17 +48,17 @@ What Are HTML Tags?
   2. Body
 
 - In head we have title and favicon. - The title is the text shown in the browser tab and also used as the name when someone bookmarks your site.
-  `    <head>
+  ` <head>
     <title>My Awesome Website</title>
     </head>
    `
 
-      - A favicon is the small icon displayed next to the title in the browser tab.
-      ```
-      <head>
-      <link rel="icon" href="favicon.png" type="image/png">
-      </head>
-      ```
+  - A favicon is the small icon displayed next to the title in the browser tab.
+    ```
+    <head>
+    <link rel="icon" href="favicon.png" type="image/png">
+    </head>
+    ```
 
   🧠 What is a Meta Tag in HTML?
 
